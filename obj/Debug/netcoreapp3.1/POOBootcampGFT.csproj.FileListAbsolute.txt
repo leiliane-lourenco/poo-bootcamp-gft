@@ -1,0 +1,14 @@
+C:\C#_Palhinha\POOBootcampGFT\bin\Debug\netcoreapp3.1\POOBootcampGFT.exe
+C:\C#_Palhinha\POOBootcampGFT\bin\Debug\netcoreapp3.1\POOBootcampGFT.deps.json
+C:\C#_Palhinha\POOBootcampGFT\bin\Debug\netcoreapp3.1\POOBootcampGFT.runtimeconfig.json
+C:\C#_Palhinha\POOBootcampGFT\bin\Debug\netcoreapp3.1\POOBootcampGFT.runtimeconfig.dev.json
+C:\C#_Palhinha\POOBootcampGFT\bin\Debug\netcoreapp3.1\POOBootcampGFT.dll
+C:\C#_Palhinha\POOBootcampGFT\bin\Debug\netcoreapp3.1\POOBootcampGFT.pdb
+C:\C#_Palhinha\POOBootcampGFT\obj\Debug\netcoreapp3.1\POOBootcampGFT.csproj.AssemblyReference.cache
+C:\C#_Palhinha\POOBootcampGFT\obj\Debug\netcoreapp3.1\POOBootcampGFT.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#_Palhinha\POOBootcampGFT\obj\Debug\netcoreapp3.1\POOBootcampGFT.AssemblyInfoInputs.cache
+C:\C#_Palhinha\POOBootcampGFT\obj\Debug\netcoreapp3.1\POOBootcampGFT.AssemblyInfo.cs
+C:\C#_Palhinha\POOBootcampGFT\obj\Debug\netcoreapp3.1\POOBootcampGFT.csproj.CoreCompileInputs.cache
+C:\C#_Palhinha\POOBootcampGFT\obj\Debug\netcoreapp3.1\POOBootcampGFT.dll
+C:\C#_Palhinha\POOBootcampGFT\obj\Debug\netcoreapp3.1\POOBootcampGFT.pdb
+C:\C#_Palhinha\POOBootcampGFT\obj\Debug\netcoreapp3.1\POOBootcampGFT.genruntimeconfig.cache
